@@ -1,6 +1,6 @@
 ---
-#title: "Carolina Torreblanca"
-subtitle: "Carolina Torreblanca"
+title: "Carolina Torreblanca"
+#subtitle: "Carolina Torreblanca"
 sidebar: false
 toc: false
 page-layout: full
