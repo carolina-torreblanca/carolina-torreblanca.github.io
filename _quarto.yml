@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!files/"
+
+website:
+  favicon: files/img/favicon.png
+  open-graph: true
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+      left: |
+        Content by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) All rights reserved.<br>
+      right: |
+        Made with [R](https://www.r-project.org/) and [Quarto](https://quarto.org/)<br>
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: html/custom.scss
+    toc: true
