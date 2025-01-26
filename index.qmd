@@ -10,13 +10,13 @@ format:
       - html/home/title-block.html
 ---
 
-<p>¡Hola! I am a Postdoctoral Fellow at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania and an external affiliate at the Poverty, Violence and Governance Lab in the Center for Democracy, Development and the Rule of Law at Stanford University. My research explores the political economy of crime and its punishment, with a regional focus on Mexico and Latin America and an emphasis on political methodology. Additionally, I work on the epistemology of causal research, exploring what conclusions we can draw from diverse research designs.</p>
+<p>¡Hola! I am a Postdoctoral Fellow at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania and an external Postdoctoral Research Fellow at the <a href="https://povgov.com/" target="_blank" rel="noopener">Poverty, Violence and Governance Lab</a> in the Center for Democracy, Development and the Rule of Law at Stanford University. My research explores the political economy of crime and its punishment, with a regional focus on Mexico and Latin America and an emphasis on political methodology. Additionally, I work on the epistemology of causal research, exploring what conclusions we can draw from diverse research designs.</p>
 
 ::: {.grid .about-me}
 ::: {.g-col-8 .g-col-md-8}
 <p>I received my Ph.D. in Politics from <a href="nyu.edu" target="_blank" rel="noopener">New York University</a> in 2024. I hold a B.A. in Political Science and a B.A. in International Relations from ITAM (2015). Before grad school, I was the Director of Data Analysis in <a href="https://datacivica.org/" target="_blank" rel="noopener">Data Cívica.</a></p>
 
-<p>If you want to read my rants about Mexican politics and occasionally movies, you can <a href=https://twitter.com/caro_whitetower" target="_blank" rel="noopener">follow me on Twitter</a>. I am also working on an ever-expanding compilation of <a href="https://open.spotify.com/playlist/4Al9JKnrYCCIZKlYyR70ku?si=63d507000c5846ce" target="_blank" rel="noopener">the best cover songs</a> you can check out. Or reach me via <a href="mailto:catba@sas.upenn.edu">email.</a></p>
+<p>If you want to read my (old!) rants about Mexican politics, you can <a href=https://twitter.com/caro_whitetower" target="_blank" rel="noopener">follow me on Twitter</a>. If you are in the mood to read some diligent, but mediocre movie reviews, you can <a href=https://letterboxd.com/caro_t/" target="_blank" rel="noopener">check out my Letterboxd.</a> I am also working on an ever-expanding compilation of <a href="https://open.spotify.com/playlist/4Al9JKnrYCCIZKlYyR70ku?si=63d507000c5846ce" target="_blank" rel="noopener">the best cover songs</a> you can check out. Or reach me via <a href="mailto:catba@sas.upenn.edu">email.</a></p>
 :::
 
 ::: {.g-col-4 .g-col-md-4 .contact-policy}
