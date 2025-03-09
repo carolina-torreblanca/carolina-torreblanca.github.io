@@ -10,7 +10,7 @@ format:
       - html/home/title-block.html
 ---
 
-<p>¡Hola! I am a Postdoctoral Fellow at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania and an external Postdoctoral Research Fellow at the <a href="https://povgov.com/" target="_blank" rel="noopener">Poverty, Violence and Governance Lab</a> in the Center for Democracy, Development and the Rule of Law at Stanford University. My research explores the political economy of crime and its punishment, with a regional focus on Mexico and Latin America and an emphasis on political methodology. Additionally, I work on the epistemology of causal research, exploring what conclusions we can draw from diverse research designs.</p>
+<p>¡Hola! I am a Postdoctoral Fellow at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania. I am also an external Postdoctoral Research Fellow at the <a href="https://povgov.com/" target="_blank" rel="noopener">Poverty, Violence and Governance Lab</a> in the Center for Democracy, Development and the Rule of Law at Stanford University. My research explores the political economy of crime and its punishment, with a regional focus on Mexico and Latin America and an emphasis on political methodology. Additionally, I work on the epistemology of causal research, exploring what conclusions we can draw from diverse research designs.</p>
 
 ::: {.grid .about-me}
 ::: {.g-col-8 .g-col-md-8}
