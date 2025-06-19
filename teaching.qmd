@@ -7,16 +7,16 @@ toc: true
 
 ### University of Pennsylvania
 
-At UPenn, I will co-teach PSCI3200 - Global Development: Intermediate Topics in Politics, Policy, and Data with Jeremy Springman in Spring 2025. Materials for the course and source code are available on the 2024 course website: [jrspringman.github.io/psci3200-globaldev/](https://jrspringman.github.io/psci3200-globaldev/)
+- **Global Development: Intermediate Topics in Politics, Policy, and Data**
+
+    - Co-lecturer (with Jeremy Springman), Spring 2025. \[[Course Evaluations](/files/course_evals/dev.pdf){target="_blank"}\]
+    - Materials for the course and source code: [jrspringman.github.io/psci3200-globaldev/](https://jrspringman.github.io/psci3200-globaldev/)
 
 ### New York University
 
 -   **Comparative Politics (Undergraduate)**
 
     -  TA for Professor Rahsaan Maxwell, Fall 2023. \[[Course Evaluations](/files/course_evals/comparative_rm.pdf){target="_blank"}\]
-
--   **Comparative Politics (Undergraduate)**
-
     -   TA for Professor Gwyneth McClendon, Spring 2023. \[[Course Evaluations](/files/course_evals/comparative_gm.pdf){target="_blank"}\]
 
 -   **Quantitative Methods III (Graduate)**
