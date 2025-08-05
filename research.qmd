@@ -10,7 +10,7 @@ output:
 ### Working Papers
 
 <p><strong>The Political Consequences of "Source Country" Operations: Evidence from Crop Eradication in Mexico</strong><br>\[[paper](/files/papers/crops/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crops/appendix.pdf){target="_blank"}\]</p>
-<p><em>R&R AJPS</em></p>
+<p><em>Under Review</em></p>
 ::: grid
 ::: g-col-12
 <p style="font-size: 15px; text-align: justify;">
