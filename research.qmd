@@ -7,6 +7,21 @@ output:
       toc: TRUE
 ---
 
+### Peer-Reviewed Articles
+
+<p><strong>Political Science Under Pressure: Competition and Collaboration in an Evolving Discipline, 2003-2023</strong><br/> with Guy Grossman and Will Dinneen <br /> \[[paper](/files/papers/landscape/landscape.pdf){target="_blank"}\]</p>
+<p><em>Perspectives on Politics (forthcoming)</em></p>
+::: grid
+::: g-col-12
+<p style="font-size: 15px; text-align: justify;">
+
+This study analyzes 140,000+ articles from 174 political science journals (2003-2023) to understand how structural incentives have shaped scholarly production in the discipline. We examine changes in publication volume, researcher productivity, topical content, methodological approaches, and collaboration patterns over two decades. Publication volume tripled, driven by three times more authors and small productivity gains. Further, since 2021, most papers have been co-authored, with teams producing topically more novel research than solo authors. Quantitative methods increasingly dominate, especially in top journals. We also find that, despite paper-level specialization, the discipline maintains topical diversity. Novel research—particularly from all-female teams—receives more citations long-term but appears less frequently in top journals. Overall, political science has transformed into a larger, more collaborative, and more quantitative discipline. Yet these changes occur amid job market contraction and mounting publication pressures that may require researchers to sacrifice career stability and intellectual risk-taking for productivity metrics.
+
+</p>
+:::
+:::
+
+
 ### Working Papers
 
 <p><strong>The Political Consequences of "Source Country" Operations: Evidence from Crop Eradication in Mexico</strong><br>\[[paper](/files/papers/crops/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crops/appendix.pdf){target="_blank"}\]</p>
@@ -30,19 +45,6 @@ When crafting law enforcement policy, drug-producing --- or "source" --- countri
 <p style="font-size: 15px; text-align: justify;">
 
 Theoretical accounts of the participatory effects of violence suggest it demobilizes some individuals but mobilizes others, making exposure patterns critical for understanding consequences. I develop a principal stratification framework incorporating heterogeneous treatment probabilities to assess the implications of accounting for systematic over/underexposure to violence. Empirically, I focus on criminal violence. Work targeting average treatment effects shows crime spurs participation. However, criminology research suggests that people are heterogeneously vulnerable to crime. Using survey data from 150,000 Latin Americans, panel data from Mexico, and millions of simulations, I demonstrate that individuals who participate less post-victimization are more likely to become victims, resulting in an overall negative change of non-electoral participation due to crime. Similar patterns emerge when reassessing results from civil war exposure and police contact. These results challenge our understanding of violence's political consequences and highlight the distinction between how violence could shape politics and how, in fact, it does so.
-
-</p>
-:::
-:::
-
-
-<p><strong>Political Science Under Pressure: Competition and Collaboration in an Evolving Discipline, 2003-2023</strong><br/> with Guy Grossman and Will Dinneen <br /> \[[paper](/files/papers/landscape/landscape.pdf){target="_blank"}\]</p>
-<p><em>R&R PS</em></p>
-::: grid
-::: g-col-12
-<p style="font-size: 15px; text-align: justify;">
-
-This study analyzes 140,000+ articles from 174 political science journals (2003-2023) to understand how structural incentives have shaped scholarly production in the discipline. We examine changes in publication volume, researcher productivity, topical content, methodological approaches, and collaboration patterns over two decades. Publication volume tripled, driven by three times more authors and small productivity gains. Further, since 2021, most papers have been co-authored, with teams producing topically more novel research than solo authors. Quantitative methods increasingly dominate, especially in top journals. We also find that, despite paper-level specialization, the discipline maintains topical diversity. Novel research—particularly from all-female teams—receives more citations long-term but appears less frequently in top journals. Overall, political science has transformed into a larger, more collaborative, and more quantitative discipline. Yet these changes occur amid job market contraction and mounting publication pressures that may require researchers to sacrifice career stability and intellectual risk-taking for productivity metrics.
 
 </p>
 :::
