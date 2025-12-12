@@ -22,10 +22,9 @@ This study analyzes 140,000+ articles from 174 political science journals (2003-
 :::
 
 
-### Working Papers
+### Under Review
 
 <p><strong>The Political Consequences of "Source Country" Operations: Evidence from Crop Eradication in Mexico</strong><br>\[[paper](/files/papers/crops/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crops/appendix.pdf){target="_blank"}\]</p>
-<p><em>Under Review</em></p>
 ::: grid
 ::: g-col-12
 <p style="font-size: 15px; text-align: justify;">
@@ -37,7 +36,7 @@ When crafting law enforcement policy, drug-producing --- or "source" --- countri
 :::
 
 
-<p><strong>The Demobilizing Effect of Violence: Evidence of Heterogeneous Exposure and Response</strong><br /> \[[paper](/files/papers/crime/heterogeneous_crime.pdf){target="_blank"}\]</p>
+<p><strong>The Demobilizing Effect of Violence: Evidence of Heterogeneous Exposure and Response</strong><br /> \[[paper](/files/papers/crime/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crime/Appendix.pdf){target="_blank"}\]</p>
 <p><em>Honorable Mention for the APSA Comparative Politics Section Sage Best Paper Award (2024)</em></p>
 
 ::: grid
@@ -53,7 +52,6 @@ Theoretical accounts of the participatory effects of violence suggest it demobil
 <p><strong>Class and the Development of Trust in Police in Latin America</strong><br/> 
 with Tara Slough <br /> 
 \[[paper](/files/papers/trust/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/trust/appendix.pdf){target="_blank"}\]</p>
-<p><em>Under Review</em></p>
 
 ::: grid
 ::: g-col-12
@@ -73,6 +71,7 @@ readiness to see the world around them as signals about police.
 :::
 :::
 
+
 <p><strong>Informal Connections Outweigh Co-authorship Ties in Academic Impact</strong><br/> 
 with Lluís Danús, Will Dinneen, Guy Grossman, and Sandra González-Bailón<br /> 
 </p>
@@ -86,24 +85,7 @@ Research has documented the importance of teamwork in the form of co-authorship 
 :::
 :::
 
-
-
-### Works-in-Progress
-
-<p><strong>Endogenous information consumption and behavioral changes</strong><br /> with Kun Heo and Elisa Wirsching<br /></p>
-
-::: grid
-::: g-col-12
-<p style="font-size: 15px;  text-align: justify;">
-
-Common wisdom expectations and extant observational research suggest that information is a central shaping force of the political process. Yet, experimental results repeatedly show that providing information to individuals — whether about a candidate's policy platform, a politician's misuse of public funds, or public service provision — may result in small or no changes in citizens' political behavior. We provide a framework that disciplines the conceptual understanding of information as central to citizens' decision-making with these seemingly disjoint results by focusing on the endogenous consumption and provision of information. Using a formal model, we show that the people whose behavior is most elastic to learning have likely self-selected into learning more in the past and have interim posterior beliefs with smaller variances relative to the rest of the population. Alternatively, the people whose behavior is least elastic to learning have incentives to self-select into consuming new information the least. While these latter groups will have less certain beliefs, they will also be less likely to modify their behavior due to learning new information.
-
-</p>
-:::
-:::
-
 <p><strong>Reducing WhatsApp Usage to Mitigate Misinformation Exposure During Elections: Evidence from a Multi-Country Experiment</strong><br /> with Rajeshwari Majumdar, Tiago Ventura, Shelley Liu, and Joshua Tucker<br/></p>
-
 ::: grid
 ::: g-col-12
 <p style="font-size: 15px;  text-align: justify;">
@@ -113,3 +95,31 @@ Recent scholarly work has investigated how social media platforms increase users
 </p>
 :::
 :::
+
+### Works-in-Progress
+
+
+<p><strong>The Credibility Revolution in Political Science</strong><br/>
+with Will Dinneen, Guy Grossman, and Yiquin Xu<br/>
+<a href="https://doi.org/10.31235/osf.io/w2kmc_v1" target="_blank">[working paper]</a>
+</p>
+
+::: grid
+::: g-col-12
+<p style="font-size: 15px; text-align: justify;">
+How has the credibility revolution reshaped political science? We address this questionby using a large language model to classify 91,632 articles published between 2003 and2023 across 174 political science journals, focusing on causal research designs, trans-parency practices, and citation patterns. Design-based studies—research strategies thatexplicitly a research design and the assumptions required for causal identification—havebecome increasingly common, displacing regression-based analyses that rely primarilyon modeling assumptions.  Yet as of 2023, studies without an explicit identificationstrategy still constitute nearly 40% of empirical quantitative work. Within design-basedresearch, survey experiments dominate, while field experiments and quasi-experimentalapproaches have grown more modestly. Transparency practices such as placebo testsand power analysis remain rare.  Design-based studies are concentrated in top jour-nals and among authors at highly ranked institutions, and enjoy a persistent citationpremium. The credibility revolution has meaningfully reshaped the discipline, thoughunevenly and incompletely.
+</p>
+:::
+:::
+
+<p><strong>Endogenous information consumption and behavioral changes</strong><br /> with Kun Heo and Elisa Wirsching<br /></p>
+::: grid
+::: g-col-12
+<p style="font-size: 15px;  text-align: justify;">
+Common wisdom expectations and extant observational research suggest that information is a central shaping force of the political process. Yet, experimental results repeatedly show that providing information to individuals — whether about a candidate's policy platform, a politician's misuse of public funds, or public service provision — may result in small or no changes in citizens' political behavior. We provide a framework that disciplines the conceptual understanding of information as central to citizens' decision-making with these seemingly disjoint results by focusing on the endogenous consumption and provision of information. Using a formal model, we show that the people whose behavior is most elastic to learning have likely self-selected into learning more in the past and have interim posterior beliefs with smaller variances relative to the rest of the population. Alternatively, the people whose behavior is least elastic to learning have incentives to self-select into consuming new information the least. While these latter groups will have less certain beliefs, they will also be less likely to modify their behavior due to learning new information.
+
+</p>
+:::
+:::
+
+
