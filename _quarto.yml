@@ -9,16 +9,20 @@ website:
   favicon: files/img/favicon.png
   open-graph: true
   title: ""
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: CV
-      - href: teaching.qmd
-        text: Teaching
+navbar:
+  left:
+    - href: index.qmd
+      text: Home
+    - href: research.qmd
+      text: Research
+    - href: cv.qmd
+      text: CV
+    - text: Teaching
+      menu:
+        - href: teaching.qmd
+          text: Overview
+        - href: https://carolina-torreblanca.github.io/psci3200-globaldev-main/
+          text: "PSCI 3200: Global Development"
   page-footer:
       left: |
         Content by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) All rights reserved.<br>
