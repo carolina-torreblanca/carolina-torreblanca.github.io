@@ -1,0 +1,101 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{secondPaper}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4bb983b68767bfb7760064c0db4691d7}{%
+           family={Surname},
+           familyi={S\bibinitperiod},
+           given={Name},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a4d3809df313d2c759f2c0951a4cbaaa}{%
+           family={Person},
+           familyi={P\bibinitperiod},
+           given={Sample},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2074f2ae29e8107aca0dd86f33ccf5ff}
+      \strng{fullhash}{2074f2ae29e8107aca0dd86f33ccf5ff}
+      \strng{bibnamehash}{2074f2ae29e8107aca0dd86f33ccf5ff}
+      \strng{authorbibnamehash}{2074f2ae29e8107aca0dd86f33ccf5ff}
+      \strng{authornamehash}{2074f2ae29e8107aca0dd86f33ccf5ff}
+      \strng{authorfullhash}{2074f2ae29e8107aca0dd86f33ccf5ff}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2020 {{Placeholder Conference Title}}}
+      \field{eventtitle}{2020 {{Placeholder Conference Title}}}
+      \field{month}{4}
+      \field{title}{{{Placeholder Paper Title}}}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1234\bibrangedash 1235}
+      \range{pages}{2}
+    \endentry
+    \entry{firstPaper}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=a4d3809df313d2c759f2c0951a4cbaaa}{%
+           family={Person},
+           familyi={P\bibinitperiod},
+           given={Sample},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a4d3809df313d2c759f2c0951a4cbaaa}{%
+           family={Person},
+           familyi={P\bibinitperiod},
+           given={Sample},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4bb983b68767bfb7760064c0db4691d7}{%
+           family={Surname},
+           familyi={S\bibinitperiod},
+           given={Name},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a4d3809df313d2c759f2c0951a4cbaaa}{%
+           family={Person},
+           familyi={P\bibinitperiod},
+           given={Sample},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a636e325b54a08c8cc750d0f6373ba67}
+      \strng{fullhash}{8ea6ed2cbda58cee42968f201cfd9967}
+      \strng{bibnamehash}{8ea6ed2cbda58cee42968f201cfd9967}
+      \strng{authorbibnamehash}{8ea6ed2cbda58cee42968f201cfd9967}
+      \strng{authornamehash}{a636e325b54a08c8cc750d0f6373ba67}
+      \strng{authorfullhash}{8ea6ed2cbda58cee42968f201cfd9967}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 {{Placeholder Conference Title}}}
+      \field{eventtitle}{2018 {{Placeholder Conference Title}}}
+      \field{month}{4}
+      \field{title}{{{Placeholder Paper Title}}}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1234\bibrangedash 1235}
+      \range{pages}{2}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
