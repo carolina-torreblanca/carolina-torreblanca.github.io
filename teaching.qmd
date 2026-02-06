@@ -40,7 +40,7 @@ toc: true
 ```
 -   **Political Theory** **(Undergraduate)**
 
-    -   For Professor Dimitri Landa, Fall 2020. \[[Course Evaluations](/files/course_evals/theory.pdf){target="_blank"}\]
+    -   For Professor Dimitri Landa, Fall 2020. \[[Course Evaluations](/files/course_evals/poltheory.pdf){target="_blank"}\]
 
 
 

@@ -1,26 +1,21 @@
 \ProvidesPackage{simplecv}
 
 % Packages
-\usepackage[cm]{fullpage}                   % Margins
-\usepackage[hidelinks]{hyperref}            % Hyperlinks
+\usepackage[T1]{fontenc}                    % Font encoding
+\usepackage{libertinus}                     % Libertinus font family
+\usepackage[letterpaper,margin=0.75in,top=0.7in,bottom=0.7in]{geometry} % Margins
+\usepackage[dvipsnames]{xcolor}             % Coloring
+\usepackage[colorlinks=false,hidelinks]{hyperref} % Hyperlinks
 \usepackage{titlesec}                       % Title formatting
 \usepackage{subfiles}                       % File importing
 \usepackage{multicol}                       % Multiple columns
-\usepackage[usenames,dvipsnames]{xcolor}    % Coloring
 \usepackage{enumitem}                       % List customization
 \usepackage{lastpage}                       % Page numbering
 \usepackage{fancyhdr}                       % Footers
-\usepackage[russian,english]{babel}         % Language styles
+\usepackage[english]{babel}                 % Language styles
 \usepackage{graphicx}                       % Importing graphics
 \usepackage[export]{adjustbox}              % Aligning margins
-
-% % Chinese
-% \usepackage{xeCJK}
-% \setCJKmainfont{BabelStone Han}
-
-% % Cyrillic/Russian
-% \usepackage{hyphenat}
-% \babelfont{rm}{Droid Sans}
+\usepackage{microtype}                      % Microtypographic refinements
 
 % Styling
 \pagestyle{fancy}
@@ -99,19 +94,20 @@
 
 % Section titles
 \titleformat{\section}{
-    \scshape\raggedright\Large\color{color-title}}{}{0em}{}[\color{color-title}\titlerule
+    \scshape\raggedright\large\color{color-title}}{}{0em}{}[\color{color-title}\titlerule
     \vspace{-\smallskipamount}]
+\titlespacing*{\section}{0pt}{*1.8}{*1.0}
 
 % Footer
-\fancyfoot[R]{Page \thepage \hspace{1pt} of \pageref{LastPage}}
+\fancyfoot[R]{\small\textcolor{color-detail}{\thepage\hspace{1pt}/\hspace{1pt}\pageref{LastPage}}}
 
 % Lists
 \newcommand{\outerlist}[1]{
-    \begin{itemize}[leftmargin=*] #1 \end{itemize}}
+    \begin{itemize}[leftmargin=*,itemsep=4pt,parsep=2pt] #1 \end{itemize}}
 \newcommand{\denseouterlist}[1]{
-    \begin{itemize}[leftmargin=*,itemsep=0pt] #1 \end{itemize}}
+    \begin{itemize}[leftmargin=*,itemsep=0pt,parsep=0pt] #1 \end{itemize}}
 \newcommand{\innerlist}[1]{
-    \begin{itemize}[topsep=0pt] #1 \end{itemize}}
+    \begin{itemize}[topsep=0pt,itemsep=1pt,parsep=0pt] #1 \end{itemize}}
 \newcommand{\orderedouterlist}[1]{
     \begin{enumerate}[leftmargin=*] #1 \end{enumerate}}
 
@@ -126,7 +122,9 @@
 
 \newcommand{\entrybig}[5][]{\item[#1]
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-    #2 & #3 \\ {\small#4} & {\small #5} \\ \end{tabular*}}
+    #2 & #3 \\
+    \ifx\relax#4\relax\else {\small#4} & {\small #5} \\\fi
+    \end{tabular*}}
 
 % Fill year
 \newcommand{\fillyear}[1]{\phantom{#1}}

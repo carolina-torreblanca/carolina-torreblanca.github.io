@@ -10,6 +10,7 @@ website:
   open-graph: true
   title: ""
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -31,7 +32,6 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: [flatly, html/custom.scss]
       dark: darkly
-    css: html/custom.scss
     toc: true

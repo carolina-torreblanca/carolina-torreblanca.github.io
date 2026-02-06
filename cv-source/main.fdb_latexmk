@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1770400749.70639 "main.bcf" "main.bbl" "main" 1770400754.45532 0
-  "main.bcf" 1770400754.36254 107598 694826caba96145f1d7ace23b474813a "pdflatex"
+["biber main"] 1770400749.70639 "main.bcf" "main.bbl" "main" 1770400979.45797 0
+  "main.bcf" 1770400979.36439 107598 694826caba96145f1d7ace23b474813a "pdflatex"
   "papers.bib" 1770416180 583 7bf4499143c740bbca73de19d5afe679 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1770400753.41278 "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" "main.pdf" "main" 1770400754.4556 2
+["pdflatex"] 1770400978.39549 "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" "main.pdf" "main" 1770400979.45828 0
   "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" 1770400721.63054 1403 6a167ec5b90b7698f31cc4a2e53742d0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -138,16 +138,17 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1722292514.83895 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722292440 8221420 b9cf85714a1fa10a0d090cb46972fb7f ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1770400754.35801 1787 a01a27ca99836e9ed75398cdc9df2685 "pdflatex"
+  "main.aux" 1770400979.36045 1790 024e02a9c51a158c324a66ad2e0e0738 "pdflatex"
   "main.bbl" 1770400752.16458 3566 50588d4760d8e4306ac5bbe2dc22528a "biber main"
-  "main.out" 1770400754.35966 1321 b4a19bc395890bd9103a99db61bc93b1 "pdflatex"
+  "main.out" 1770400979.36161 1321 b4a19bc395890bd9103a99db61bc93b1 "pdflatex"
+  "main.run.xml" 1770400979.36575 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
   "main.tex" 1770400721.63054 1403 6a167ec5b90b7698f31cc4a2e53742d0 ""
   "sections/awards.tex" 1770399534.13231 445 9f9a5aeddb34aa0b5cd20500f5bc6fa2 ""
   "sections/education.tex" 1770416180 501 02c08309a711ca1863048b479701bd03 ""
   "sections/external_fellows.tex" 1770416180 275 0136ce73626dffda8a664b1f08d9f622 ""
   "sections/grants.tex" 1770416180 339 b2b8119c3f04d041e2636acc63991afd ""
   "sections/languages.tex" 1770416180 97 632be218fad98d63bb9b41a342fecbdd ""
-  "sections/other.tex" 1770400599.80494 158 f7f652a5692cb906a99e999e8aaf5a66 ""
+  "sections/other.tex" 1770400976.80392 160 a0b855cd20555476983dc86aaf4e0296 ""
   "sections/presentations.tex" 1770400612.38231 530 1425e33894b108358ddf30d61b45cdf3 ""
   "sections/publications.tex" 1770416180 349 60d73b0eb799b4bbb7cf7fe4f6a83044 ""
   "sections/research.tex" 1770400752.71577 1946 20f548b9260439eca6a25a5cc7d6434f ""
