@@ -56,17 +56,21 @@ with Tara Slough <br />
 ::: grid
 ::: g-col-12
 <p style="font-size: 15px; text-align: justify;">
-Trust in police is a critical input in the co-production of public security. We show that the 
-positive socioeconomic status (SES)-trust in police gradient observed in the US does not 
-generalize to Latin America. In 146 surveys spanning 20 countries, we find that trust in police 
-is weakly and negatively correlated with SES—a fact that neither regional nor subject-matter 
-experts anticipated. We propose that rich citizens are more likely to interpret everyday 
-experiences as signals about the police. Because bad experiences like crime victimization and 
-bribe solicitation are more common in Latin America than in the US, rich citizens's tendency 
-to interpret poor security outcomes as signals of police untrustworthiness leads to a lower trust–
-SES gradient. In our account, cross-country differences in the trust–SES gradient are driven by 
-differences in policing outcomes coupled with universal class-based differences in people's 
-readiness to see the world around them as signals about police.
+Trust in police is a critical input in the co-production of public security. We show that the positive socioeconomic status (SES)-trust in police gradient observed in the US does not generalize to Latin America. In 146 surveys spanning 20 countries, we find that trust in police is weakly and negatively correlated with SES—a fact that neither regional nor subject-matter experts anticipated. We propose that rich citizens are more likely to interpret everyday experiences as signals about the police. Because bad experiences like crime victimization and bribe solicitation are more common in Latin America than in the US, rich citizens's tendency to interpret poor security outcomes as signals of police untrustworthiness leads to a lower trust–
+SES gradient. In our account, cross-country differences in the trust–SES gradient are driven by differences in policing outcomes coupled with universal class-based differences in people's readiness to see the world around them as signals about police.
+</p>
+:::
+:::
+
+
+<p><strong>Democratic Participation without Democrats: Evidence from 109 Countries</strong><br/> 
+with Justin Melnick<br /> 
+\[[paper and appendix](/files/papers/autocrats/paper.pdf){target="_blank"}\]</p>
+
+::: grid
+::: g-col-12
+<p style="font-size: 15px; text-align: justify;">
+In canonical research on civic and political culture, there is an implicit assumption that citizens participate in civic life more when they are committed to democratic rule. We provide descriptive evidence to the contrary using survey data from 551,763 respondents across 109 countries drawn from four major cross-national surveys. We examine whether individuals who express greater or lower tolerance for non-democratic governance and authority vary in their participation rates. Across geographic regions, participation modes, and measures of regime attitudes, we find no consistent association between democratic commitment and participation. Instead, individuals who tolerate military rule, coups, or strongman leadership are often more likely to participate than those who reject such views. The weak-to-null relationship between democratic commitments and participation does not systematically vary with country-level democratic consolidation; participation is not systematically undertaken more by democrats in consolidated democracies. Findings emphasize that while democracy requires participation, participation does not require democrats
 </p>
 :::
 :::
@@ -86,6 +90,7 @@ Research has documented the importance of teamwork in the form of co-authorship 
 :::
 
 <p><strong>Reducing WhatsApp Usage to Mitigate Misinformation Exposure During Elections: Evidence from a Multi-Country Experiment</strong><br /> with Rajeshwari Majumdar, Tiago Ventura, Shelley Liu, and Joshua Tucker<br/></p>
+<p><em>Best Paper in Political Behavior Award, 2025 MPSA Annual Conference</em></p>
 ::: grid
 ::: g-col-12
 <p style="font-size: 15px;  text-align: justify;">
