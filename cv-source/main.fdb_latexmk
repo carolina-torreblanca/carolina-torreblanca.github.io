@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1770399221.80727 "main.bcf" "main.bbl" "main" 1770399810.81577 0
-  "main.bcf" 1770399810.70579 107598 694826caba96145f1d7ace23b474813a "pdflatex"
+["biber main"] 1770399221.80727 "main.bcf" "main.bbl" "main" 1770400088.79629 0
+  "main.bcf" 1770400088.68232 107598 694826caba96145f1d7ace23b474813a "pdflatex"
   "papers.bib" 1770416180 583 7bf4499143c740bbca73de19d5afe679 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1770399809.64275 "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" "main.pdf" "main" 1770399810.8161 2
-  "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" 1770399808.16747 1403 6a167ec5b90b7698f31cc4a2e53742d0 ""
+["pdflatex"] 1770400087.56652 "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" "main.pdf" "main" 1770400088.7966 2
+  "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" 1770399889.81372 1403 6a167ec5b90b7698f31cc4a2e53742d0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -138,10 +138,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1722292514.83895 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722292440 8221420 b9cf85714a1fa10a0d090cb46972fb7f ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1770399810.70138 1787 a01a27ca99836e9ed75398cdc9df2685 "pdflatex"
+  "main.aux" 1770400088.67821 1787 a01a27ca99836e9ed75398cdc9df2685 "pdflatex"
   "main.bbl" 1770399234.24734 3566 50588d4760d8e4306ac5bbe2dc22528a "biber main"
-  "main.out" 1770399810.7027 1321 b4a19bc395890bd9103a99db61bc93b1 "pdflatex"
-  "main.tex" 1770399808.16747 1403 6a167ec5b90b7698f31cc4a2e53742d0 ""
+  "main.out" 1770400088.67942 1321 b4a19bc395890bd9103a99db61bc93b1 "pdflatex"
+  "main.tex" 1770399889.81372 1403 6a167ec5b90b7698f31cc4a2e53742d0 ""
   "sections/awards.tex" 1770399534.13231 445 9f9a5aeddb34aa0b5cd20500f5bc6fa2 ""
   "sections/education.tex" 1770416180 501 02c08309a711ca1863048b479701bd03 ""
   "sections/external_fellows.tex" 1770416180 275 0136ce73626dffda8a664b1f08d9f622 ""
@@ -152,9 +152,9 @@
   "sections/publications.tex" 1770416180 349 60d73b0eb799b4bbb7cf7fe4f6a83044 ""
   "sections/research.tex" 1770416180 1874 02c341ee5fbfbe76b35f46d3ffef2e31 ""
   "sections/skills.tex" 1770416180 69 d9c3f3538d1690bee0bab3d7208ba886 ""
-  "sections/teaching.tex" 1770416180 1117 21c8e496179266ebb4833c3738f64925 ""
+  "sections/teaching.tex" 1770400087.26172 1264 f42ae1a80357e8761942f4e6cdbb7ab0 ""
   "sections/work.tex" 1770416180 483 a5dacedf323d27a22c881e6eaf912317 ""
-  "simplecv.sty" 1770399804.79761 4447 d64425397f58407ca76ed0216717ea7e ""
+  "simplecv.sty" 1770399889.8137 4447 d64425397f58407ca76ed0216717ea7e ""
   (generated)
   "main.aux"
   "main.bcf"
