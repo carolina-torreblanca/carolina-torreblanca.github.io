@@ -5,4 +5,4 @@ sidebar: false
 toc: false
 ---
 
-<embed src="/cv-source/main.pdf" width="900px" height="1000px" />
+<embed src="/files/cv.pdf" width="900px" height="1000px" />
