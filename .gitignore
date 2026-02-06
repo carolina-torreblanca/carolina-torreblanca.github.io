@@ -4,3 +4,5 @@
 .Ruserdata
 
 /.quarto/
+# CV source files (keep private)
+/cv-source/

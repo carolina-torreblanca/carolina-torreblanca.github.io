@@ -1,0 +1,35 @@
+name: Build CV
+
+on:
+  push:
+    paths:
+      - 'cv-source/**'
+    branches:
+      - main
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up LaTeX
+      uses: xu-cheng/latex-action@v2
+      with:
+        root_file: main.tex
+        working_directory: cv-source
+        
+    - name: Move PDF to docs/files
+      run: |
+        mkdir -p docs/files
+        cp cv-source/main.pdf docs/files/cv.pdf
+        
+    - name: Commit and push PDF
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add docs/files/cv.pdf
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update CV PDF" && git push)
