@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  6 FEB 2026 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  17 FEB 2026 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,7 +988,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  23017 strings out of 474116
  411126 string characters out of 5743682
- 1949187 words of memory out of 5000000
+ 1950187 words of memory out of 5000000
  44939 multiletter control sequences out of 15000+600000
  611807 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -997,7 +997,7 @@ Here is how much of TeX's memory you used:
 tinusSerif-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/libe
 rtinus-type1/LibertinusSerif-Italic.pfb></usr/local/texlive/2024/texmf-dist/fon
 ts/type1/public/libertinus-type1/LibertinusSerif-Regular.pfb>
-Output written on main.pdf (3 pages, 301236 bytes).
+Output written on main.pdf (3 pages, 301203 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream
