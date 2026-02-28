@@ -21,15 +21,15 @@ toc: true
 
 -   **Quantitative Methods III (Graduate)**
 
-    -   TA for Professor Tara Slough, Fall 2022
+    -   TA for Professor Tara Slough, Fall 2022.
 
 -   **Intro to Quantitative Political Analysis II (Graduate)**
 
-    -  TA for Professor Gizem Acikgoz, Spring 2022
+    -  TA for Professor Gizem Acikgoz, Spring 2022.
 
 -   **Intro to Quantitative Political Analysis I (Graduate)**
 
-    -   TA for Professor Gizem Acikgoz, Fall 2021
+    -   TA for Professor Gizem Acikgoz, Fall 2021.
 
 -   **Introduction to Research Methods (Undergraduate)**
 
@@ -40,8 +40,4 @@ toc: true
 ```
 -   **Political Theory** **(Undergraduate)**
 
-    -   For Professor Dimitri Landa, Fall 2020. \[[Course Evaluations](/files/course_evals/poltheory.pdf){target="_blank"}\]
-
-
-
-### 
+    -   TA for Professor Dimitri Landa, Fall 2020. \[[Course Evaluations](/files/course_evals/poltheory.pdf){target="_blank"}\]
