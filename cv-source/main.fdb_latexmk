@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1770400749.70639 "main.bcf" "main.bbl" "main" 1771366011.99072 0
-  "main.bcf" 1771366011.85511 107598 694826caba96145f1d7ace23b474813a "pdflatex"
+["biber main"] 1770400749.70639 "main.bcf" "main.bbl" "main" 1773776734.85226 0
+  "main.bcf" 1773776734.72311 107598 694826caba96145f1d7ace23b474813a "pdflatex"
   "papers.bib" 1770416180 583 7bf4499143c740bbca73de19d5afe679 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1771366010.72731 "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" "main.pdf" "main" 1771366011.99099 0
+["pdflatex"] 1773776733.61386 "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" "main.pdf" "main" 1773776734.85254 0
   "/Users/carolinatorreblanca/Documents/GitHub/carowhitetower.github.io/cv-source/main.tex" 1771366010.46205 1405 83e2a47fa7639f047fdd4aaa3773f822 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_75t36g.enc" 1667852677 3022 13dbae1db4ca7b6d6a3611a22a194cb8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_cb34qf.enc" 1667852677 3498 97969c5bc9b87f369104f937c6467737 ""
@@ -150,10 +150,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1722292514.83895 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722292440 8221420 b9cf85714a1fa10a0d090cb46972fb7f ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1771366011.85028 1770 9ec012b613d5a8a7b272555c48bf1d12 "pdflatex"
+  "main.aux" 1773776734.71906 1770 9ec012b613d5a8a7b272555c48bf1d12 "pdflatex"
   "main.bbl" 1770400752.16458 3566 50588d4760d8e4306ac5bbe2dc22528a "biber main"
-  "main.out" 1771366011.85202 1321 b4a19bc395890bd9103a99db61bc93b1 "pdflatex"
-  "main.run.xml" 1771366011.85606 2398 a2262f7f8e82257c36bf818f8e1363fb "pdflatex"
+  "main.out" 1773776734.72026 1321 b4a19bc395890bd9103a99db61bc93b1 "pdflatex"
+  "main.run.xml" 1773776734.7238 2398 a2262f7f8e82257c36bf818f8e1363fb "pdflatex"
   "main.tex" 1771366010.46205 1405 83e2a47fa7639f047fdd4aaa3773f822 ""
   "sections/awards.tex" 1770399534.13231 445 9f9a5aeddb34aa0b5cd20500f5bc6fa2 ""
   "sections/education.tex" 1770416180 501 02c08309a711ca1863048b479701bd03 ""
@@ -163,7 +163,7 @@
   "sections/other.tex" 1770400976.80392 160 a0b855cd20555476983dc86aaf4e0296 ""
   "sections/presentations.tex" 1770400612.38231 530 1425e33894b108358ddf30d61b45cdf3 ""
   "sections/publications.tex" 1770416180 349 60d73b0eb799b4bbb7cf7fe4f6a83044 ""
-  "sections/research.tex" 1771365633.57995 1944 591966c91a45e9b1e4fda8a659fe85be ""
+  "sections/research.tex" 1773776733.3552 1949 eacc2e31af9f8915f3e49d08109e9911 ""
   "sections/skills.tex" 1770416180 69 d9c3f3538d1690bee0bab3d7208ba886 ""
   "sections/teaching.tex" 1770400087.26172 1264 f42ae1a80357e8761942f4e6cdbb7ab0 ""
   "sections/work.tex" 1770416180 483 a5dacedf323d27a22c881e6eaf912317 ""
