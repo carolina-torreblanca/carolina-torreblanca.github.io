@@ -43,13 +43,13 @@ When crafting law enforcement policy, drug-producing --- or "source" --- countri
 :::
 
 
-<p><strong>The Demobilizing Effect of Violence: Evidence of Heterogeneous Exposure and Response</strong><br /> \[[paper](/files/papers/crime/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crime/Appendix.pdf){target="_blank"}\]</p>
+<p><strong>The Demobilizing Effect of Selective Exposure and Heterogeneous Responses to Violence</strong><br /> \[[paper](/files/papers/crime/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crime/Appendix.pdf){target="_blank"}\]</p>
 <p><em>Honorable Mention for the APSA Comparative Politics Section Sage Best Paper Award (2024)</em></p>
 
 ::: {.abstract}
 <p>
 
-Theoretical accounts of the participatory effects of violence suggest it demobilizes some individuals but mobilizes others, making exposure patterns critical for understanding consequences. I develop a principal stratification framework incorporating heterogeneous treatment probabilities to assess the implications of accounting for systematic over/underexposure to violence. Empirically, I focus on criminal violence. Work targeting average treatment effects shows crime spurs participation. However, criminology research suggests that people are heterogeneously vulnerable to crime. Using survey data from 150,000 Latin Americans, panel data from Mexico, and millions of simulations, I demonstrate that individuals who participate less post-victimization are more likely to become victims, resulting in an overall negative change of non-electoral participation due to crime. Similar patterns emerge when reassessing results from civil war exposure and police contact. These results challenge our understanding of violence's political consequences and highlight the distinction between how violence could shape politics and how, in fact, it does so.
+The burden of violence is not shared equally. Yet, our understanding of its consequences often comes from populations unlikely to be victimized. Using principal stratification, I show that because exposure to violence is selective and reactions to it are heterogeneous, effects among the exposed can differ from the population average. Empirically, I reassess the mobilization-spurring consequences of crime. Recovering all causal effects consistent with victimization and participation rates across 94 surveys in 20 Latin American countries, I show population-wide average effects favor mobilization. Conversely, effects among victims are overwhelmingly negative. Panel evidence from Mexico confirms that those likely to demobilize are more exposed to crime. Similar reversals arise when reassessing civil war abduction in Uganda and police contact in the United States. Where selective exposure and heterogeneous reactions coincide, the effect among the exposed is the causal quantity of interest. Targeting this effect reveals that violence likely demobilizes those exposed.
 
 </p>
 :::
