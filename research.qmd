@@ -9,8 +9,8 @@ output:
 
 ### Peer-Reviewed Articles
 
-<p><strong>Political Science Under Pressure: Competition and Collaboration in an Evolving Discipline, 2003-2023</strong><br/> with Guy Grossman and Will Dinneen <br /> \[[paper](/files/papers/landscape/landscape.pdf){target="_blank"}\]</p>
-<p><em>Perspectives on Politics (forthcoming)</em></p>
+<p><strong>Political Science Under Pressure: Competition and Collaboration in a Growing Discipline, 2003–23</strong><br/> with Guy Grossman and Will Dinneen <br /> \[[paper](/files/papers/landscape/landscape.pdf){target="_blank"}\] \[[published version](https://www.cambridge.org/core/journals/perspectives-on-politics/article/political-science-under-pressure-competition-and-collaboration-in-a-growing-discipline-200323/2523F888DEB0BD80E7E2913672AF1585){target="_blank"}\]</p>
+<p><em>Perspectives on Politics</em></p>
 ::: {.abstract}
 <p>
 
@@ -21,8 +21,8 @@ This study analyzes 140,000+ articles from 174 political science journals (2003-
 
 <p><strong>Informal Connections Outweigh Co-authorship Ties in Academic Impact</strong><br/>
 with Lluís Danús, Will Dinneen, Guy Grossman, and Sandra González-Bailón<br />
-</p>
-<p><em>PNAS (forthcoming)</em></p>
+\[[published version](https://www.pnas.org/doi/10.1073/pnas.2511050123){target="_blank"}\]</p>
+<p><em>Proceedings of the National Academy of Sciences</em></p>
 
 ::: {.abstract}
 <p>
@@ -43,7 +43,7 @@ When crafting law enforcement policy, drug-producing --- or "source" --- countri
 :::
 
 
-<p><strong>The Demobilizing Effect of Selective Exposure and Heterogeneous Responses to Violence</strong><br /> \[[paper](/files/papers/crime/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crime/Appendix.pdf){target="_blank"}\]</p>
+<p><strong>Selective Exposure, Heterogeneous Responses, and Sign Reversal in the Political Consequences of Violence</strong><br /> \[[paper](/files/papers/crime/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crime/Appendix.pdf){target="_blank"}\]</p>
 <p><em>Honorable Mention for the APSA Comparative Politics Section Sage Best Paper Award (2024)</em></p>
 
 ::: {.abstract}
