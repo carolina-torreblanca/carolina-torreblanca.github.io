@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  18 MAY 2026 14:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.29)  19 MAY 2026 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1001,7 +1001,7 @@ Here is how much of TeX's memory you used:
 tinusSerif-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/libe
 rtinus-type1/LibertinusSerif-Italic.pfb></usr/local/texlive/2024/texmf-dist/fon
 ts/type1/public/libertinus-type1/LibertinusSerif-Regular.pfb>
-Output written on main.pdf (3 pages, 301083 bytes).
+Output written on main.pdf (3 pages, 301047 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  86 compressed objects within 1 object stream

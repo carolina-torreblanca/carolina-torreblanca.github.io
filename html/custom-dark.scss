@@ -1,0 +1,24 @@
+/*-- scss:rules --*/
+
+// These rules live only in the dark CSS file — no selector wrapper needed
+a {
+  color: #FF8888 !important;
+  &:hover { color: #ffb0b0 !important; }
+}
+
+.navbar .nav-link, .navbar .navbar-brand {
+  color: rgba(255, 255, 255, 0.85) !important;
+  &:hover, &.active { color: #FF8888 !important; }
+}
+
+.navbar {
+  border-bottom-color: #FF8888;
+}
+
+#quarto-header {
+  background-color: transparent;
+}
+
+details summary {
+  color: #FF8888;
+}
