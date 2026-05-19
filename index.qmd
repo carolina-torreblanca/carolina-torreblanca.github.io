@@ -9,7 +9,10 @@ format:
     template-partials:
       - html/home/title-block.html
 ---
-<img src="files/img/biopic2.jpeg" class="bio-photo" alt="Carolina Torreblanca"/>
+<figure class="bio-photo">
+  <img src="files/img/biopicalt.png" alt="Carolina Torreblanca"/>
+  <figcaption>The goat Kyoshi (left) and me (right)</figcaption>
+</figure>
 
 <p>¡Hola! I am a Postdoctoral Fellow at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania. I am also a <a href="https://ai.upenn.edu/penn-ai-fellows" target="_blank" rel="noopener">Penn AI Fellow</a> and an external Postdoctoral Research Fellow at the <a href="https://povgov.com/" target="_blank" rel="noopener">Poverty, Violence and Governance Lab</a> at Stanford University.</p>
 
