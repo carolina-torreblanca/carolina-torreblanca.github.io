@@ -9,7 +9,7 @@ toc: true
 
 - **Global Development: Intermediate Topics in Politics, Policy, and Data**
 
-    - Lecturer, Spring 2026. \[[Course Materials](https://carolina-torreblanca.github.io/psci3200-globaldev-main/){target="_blank"}\]
+    - Lecturer, Spring 2026. \[[Course Materials](https://carolina-torreblanca.github.io/psci3200-globaldev-main/){target="_blank"}\]\[[Course Evaluations](/files/course_evals/dev2.pdf){target="_blank"}\]
     - Co-lecturer (with Jeremy Springman), Spring 2025. \[[Course Evaluations](/files/course_evals/dev.pdf){target="_blank"}\]
 
 ### New York University
