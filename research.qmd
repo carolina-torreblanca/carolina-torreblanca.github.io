@@ -71,7 +71,11 @@ with Justin Melnick<br />
 
 ### Works-in-Progress
 
+<p><strong>Edutainment and Refugee Integration: An Experiment on Radio Popularity in Kenya</strong><br /> with Erik Wibbels, Guy Grossman, and Yotam Margalit<br /></p>
+
 <p><strong>Endogenous information consumption and behavioral changes</strong><br /> with Kun Heo and Elisa Wirsching<br /></p>
 <details><summary></summary>
 <div class="abstract"><p>Common wisdom expectations and extant observational research suggest that information is a central shaping force of the political process. Yet, experimental results repeatedly show that providing information to individuals — whether about a candidate's policy platform, a politician's misuse of public funds, or public service provision — may result in small or no changes in citizens' political behavior. We provide a framework that disciplines the conceptual understanding of information as central to citizens' decision-making with these seemingly disjoint results by focusing on the endogenous consumption and provision of information. Using a formal model, we show that the people whose behavior is most elastic to learning have likely self-selected into learning more in the past and have interim posterior beliefs with smaller variances relative to the rest of the population. Alternatively, the people whose behavior is least elastic to learning have incentives to self-select into consuming new information the least. While these latter groups will have less certain beliefs, they will also be less likely to modify their behavior due to learning new information.</p></div>
 </details>
+
+<p><strong>Waves Apart: The Limits of Pre-Trends Tests in Sparse Panels</strong><br /> with Nicolás Idrobo<br /></p>
