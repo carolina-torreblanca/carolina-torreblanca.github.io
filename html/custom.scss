@@ -30,6 +30,7 @@ $sidebar-font-size-section: 0.9rem;
 
 $maroon:      #5C1220;
 $maroon-dark: #FF8888;
+$cream:       #F7F3EE;
 
 $link-color:       $maroon;
 $link-hover-color: darken($maroon, 10%);
@@ -39,13 +40,17 @@ $monokai-bg: #2e3440;
 
 /*-- scss:rules --*/
 
+// Whole-page warm background (light mode; dark overridden in custom-dark.scss)
+body { background-color: $cream; }
+
 // Navbar + header wrapper
 #quarto-header {
-  background-color: $gray-100;
+  background-color: $cream;
   box-shadow: none !important;
 }
 
 .navbar {
+  background-color: $cream !important;
   border-bottom: 2px solid $maroon;
   letter-spacing: 0.02em;
   box-shadow: none !important;
