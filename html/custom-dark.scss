@@ -17,9 +17,14 @@ a {
 
 body { background-color: #222; }
 
+// Top banner + footer: black in dark mode
+.navbar { background-color: #000 !important; }
+
 #quarto-header {
-  background-color: transparent;
+  background-color: #000;
 }
+
+.nav-footer { background-color: #000; }
 
 details summary {
   color: #FF8888;
