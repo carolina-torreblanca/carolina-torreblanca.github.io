@@ -113,6 +113,18 @@ details .abstract p {
   margin-top: 0.5rem;
 }
 
+// CV download button
+.cv-download {
+  display: inline-block;
+  background-color: $maroon;
+  color: #fff !important;
+  padding: 0.4rem 0.9rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  &:hover { background-color: darken($maroon, 8%); color: #fff !important; }
+}
+
 // Footer
 .nav-footer { background-color: $cream; }
 .nav-footer-left  { text-align: left; }

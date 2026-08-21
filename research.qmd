@@ -28,7 +28,7 @@ with Lluís Danús, Will Dinneen, Guy Grossman, and Sandra González-Bailón<br 
 
 <p><strong>The Credibility Revolution in Political Science</strong><br/>
 with Will Dinneen, Guy Grossman, and Yiqing Xu<br/>
-<a href="https://doi.org/10.31235/osf.io/w2kmc_v1" target="_blank">[working paper]</a>
+<a href="https://doi.org/10.31235/osf.io/w2kmc_v1" target="_blank">[paper]</a>
 </p>
 <p><em>R&R, American Political Science Review</em></p>
 <details><summary></summary>
