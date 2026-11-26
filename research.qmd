@@ -9,8 +9,17 @@ output:
 
 ### Peer-Reviewed Articles
 
+<p><strong>The Credibility Revolution in Political Science</strong><br/>
+with Will Dinneen, Guy Grossman, and Yiqing Xu<br/>
+<a href="https://doi.org/10.31235/osf.io/w2kmc_v1" target="_blank">[paper]</a>
+</p>
+<p><em>Conditionally Accepted, American Political Science Review</em></p>
+<details><summary></summary>
+<div class="abstract"><p>How has the credibility revolution reshaped political science? We address this question by using a large language model to classify 91,632 articles published between 2003 and 2023 across 174 political science journals, focusing on causal research designs, transparency practices, and citation patterns. Design-based studies—research strategies that explicitly specify a research design and the assumptions required for causal identification—have become increasingly common, displacing regression-based analyses that rely primarily on modeling assumptions. Yet as of 2023, studies without an explicit identification strategy still constitute nearly 40% of empirical quantitative work. Within design-based research, survey experiments dominate, while field experiments and quasi-experimental approaches have grown more modestly. Transparency practices such as placebo tests and power analysis remain rare. Design-based studies are concentrated in top journals and among authors at highly ranked institutions, and enjoy a persistent citation premium. The credibility revolution has meaningfully reshaped the discipline, though unevenly and incompletely.</p></div>
+</details>
+
 <p><strong>The Political Consequences of "Source Country" Operations: Evidence from Crop Eradication in Mexico</strong><br>\[[paper](/files/papers/crops/paper.pdf){target="_blank"}\]\[[appendix](/files/papers/crops/appendix.pdf){target="_blank"}\]</p>
-<p><em>Comparative Political Studies</em>, conditionally accepted</p>
+<p><em>Conditionally Accepted, Comparative Political Studies</em></p>
 <details><summary></summary>
 <div class="abstract"><p>Drug-producing, or source countries, routinely destroy illegal crops under international pressure to curb drug supply, despite the high costs imposed on crop-growing communities. I study the domestic political consequences of crop eradication in Mexico. The Mexican army incinerates thousands of fields yearly in a context shaped by US counternarcotics pressure. I argue that, for the marginalized communities that bear its costs, eradication erodes trust in the federal government and depresses turnout. To test, I build a novel precinct-level measure from 50,000 satellite-detected fields and NASA fire data. I compare precincts where detected fields were eradicated before elections to similar precincts in the same military zone with comparable pre-election detected cultivation. I show that eradication depresses turnout and, exploiting the timing of a national survey, erodes trust in federal security institutions. International pressure that keeps coercive policy off the electoral menu may weaken accountability by pushing affected citizens toward political withdrawal.</p></div>
 </details>
@@ -31,15 +40,6 @@ with Lluís Danús, Will Dinneen, Guy Grossman, and Sandra González-Bailón<br 
 
 
 ### Under Review
-
-<p><strong>The Credibility Revolution in Political Science</strong><br/>
-with Will Dinneen, Guy Grossman, and Yiqing Xu<br/>
-<a href="https://doi.org/10.31235/osf.io/w2kmc_v1" target="_blank">[paper]</a>
-</p>
-<p><em>R&R, American Political Science Review</em></p>
-<details><summary></summary>
-<div class="abstract"><p>How has the credibility revolution reshaped political science? We address this question by using a large language model to classify 91,632 articles published between 2003 and 2023 across 174 political science journals, focusing on causal research designs, transparency practices, and citation patterns. Design-based studies—research strategies that explicitly specify a research design and the assumptions required for causal identification—have become increasingly common, displacing regression-based analyses that rely primarily on modeling assumptions. Yet as of 2023, studies without an explicit identification strategy still constitute nearly 40% of empirical quantitative work. Within design-based research, survey experiments dominate, while field experiments and quasi-experimental approaches have grown more modestly. Transparency practices such as placebo tests and power analysis remain rare. Design-based studies are concentrated in top journals and among authors at highly ranked institutions, and enjoy a persistent citation premium. The credibility revolution has meaningfully reshaped the discipline, though unevenly and incompletely.</p></div>
-</details>
 
 <p><strong>Reducing WhatsApp Usage to Mitigate Misinformation Exposure During Elections: Evidence from a Multi-Country Experiment</strong><br /> with Rajeshwari Majumdar, Tiago Ventura, Shelley Liu, and Joshua A. Tucker<br/></p>
 <p><em>R&R, American Journal of Political Science</em></p>
